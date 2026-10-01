@@ -1,0 +1,32 @@
+{
+  "alpha": [
+    {
+      "versionCode": 919000,
+      "versionName": "0.7.1-alpha.919000",
+      "apk": "CBUi-0.7.1-alpha.919000-20261001-1400.apk",
+      "releaseDate": "2026-10-01",
+      "changelog": {
+        "ru": [
+          "**Новое:**\n\n",
+          "- Обновление прямо из лаунчера: проверка, скачивание и установка в «О программе → Обновление»\n",
+          "- Выбор источника обновлений: GitHub или Яндекс.Диск\n",
+          "- Выбор ветки сборок — список приезжает от сервера, а не зашит в лаунчер\n",
+          "- Экран «Что нового» со списком изменений прямо из манифеста\n\n",
+          "**Исправлено:**\n\n",
+          "- Сплит разъезжался: первое окно уходило под док, справа оставалась пустая полоса\n",
+          "- Системная жестовая полоса считалась неверно при уменьшенном масштабе рендера\n"
+        ],
+        "en": [
+          "**New:**\n\n",
+          "- In-launcher updates: check, download and install from About → Update\n",
+          "- Update source choice: GitHub or Yandex.Disk\n",
+          "- Build channel choice — the list comes from the server, not baked into the launcher\n",
+          "- A What's new screen fed straight from the manifest\n\n",
+          "**Fixed:**\n\n",
+          "- Split layout drifted: the first window slid under the dock, a dead strip was left on the right\n",
+          "- The system gesture band was mis-measured at a reduced render scale\n"
+        ]
+      }
+    }
+  ]
+}
