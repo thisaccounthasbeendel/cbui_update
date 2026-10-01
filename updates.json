@@ -3,7 +3,10 @@
     {
       "versionCode": 919497,
       "versionName": "0.7.1-alpha.919497",
-      "apk": "https://github.com/thisaccounthasbeendel/cbui_update/releases/download/0.7.1-alpha.919497-20261001-1957/CBUi-0.7.1-alpha.919497-20261001-1957.apk",
+      "apk": {
+        "github": "https://github.com/thisaccounthasbeendel/cbui_update/releases/download/0.7.1-alpha.919497-20261001-1957/CBUi-0.7.1-alpha.919497-20261001-1957.apk",
+        "yandex": "CBUi-0.7.1-alpha.919497-20261001-1957.apk"
+      },
       "releaseDate": "2026-10-01",
       "changelog": {
         "ru": [
