@@ -30,6 +30,29 @@
           "- The system gesture band was mis-measured at a reduced render scale\n"
         ]
       }
+    },
+    {
+      "versionCode": 921237,
+      "versionName": "0.7.1-alpha.921237",
+      "apk": {
+        "github": "https://github.com/thisaccounthasbeendel/cbui_update/releases/download/CBUi-0.7.1-alpha.921237-20261003-0057-pt/CBUi-0.7.1-alpha.921237-20261003-0057-pt.apk",
+        "yandex": "CBUi-0.7.1-alpha.921237-20261003-0057-pt.apk"
+      },
+      "releaseDate": "2026-10-03",
+      "changelog": {
+        "ru": [
+          "**Изменено:**\n\n",
+          "- Предустановленные растровые обои заменены векторными\n",
+          "- Оптимизированы ресурсы иконок и прочих ассетов\n",
+          "- Уменьшен вес приложения\n"
+        ],
+        "en": [
+          "**Changed:**\n\n",
+          "- Preset raster wallpapers replaced with vector ones\n",
+          "- Optimized icon and other asset resources\n",
+          "- Reduced app size\n"
+        ]
+      }
     }
   ]
 }
