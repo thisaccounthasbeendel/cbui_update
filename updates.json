@@ -1,13 +1,13 @@
 {
   "alpha": [
     {
-      "versionCode": 919534,
-      "versionName": "0.7.1-alpha.919534",
+      "versionCode": 920433,
+      "versionName": "0.7.1-alpha.920433",
       "apk": {
-        "github": "https://github.com/thisaccounthasbeendel/cbui_update/releases/download/0.7.1-alpha.919497-20261001-1957/CBUi-0.7.1-alpha.919534-20261001-2034.apk",
-        "yandex": "CBUi-0.7.1-alpha.919534-20261001-2034.apk"
+        "github": "https://github.com/thisaccounthasbeendel/cbui_update/releases/download/CBUi-0.7.1-alpha.920433-20261002-1133-pt/CBUi-0.7.1-alpha.920433-20261002-1133-pt.apk",
+        "yandex": "CBUi-0.7.1-alpha.920433-20261002-1133-pt.apk"
       },
-      "releaseDate": "2026-10-01",
+      "releaseDate": "2026-10-02",
       "changelog": {
         "ru": [
           "**Новое:**\n\n",
