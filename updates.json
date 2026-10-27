@@ -53,6 +53,63 @@
           "- Reduced app size\n"
         ]
       }
+    },
+    {
+      "versionCode": 957579,
+      "versionName": "0.9.0-alpha.957579",
+      "apk": {
+        "github": "https://github.com/thisaccounthasbeendel/cbui_update/releases/download/CBUi-0.9.0-alpha.957579-20261028-0639-pt/CBUi-0.9.0-alpha.957579-20261028-0639-pt.apk",
+        "yandex": "CBUi-0.9.0-alpha.957579-20261028-0639-pt.apk"
+      },
+      "releaseDate": "2026-10-28",
+      "changelog": {
+        "ru": [
+          "**Новое:**\n\n",
+          "- Вид списка приложений «Категории» — как библиотека приложений iPad, и «Сетка и категории»\n",
+          "- Сортировка списка: по алфавиту, по дате установки, по частоте запуска\n",
+          "- Ярлыки одного приложения можно собрать в папку с его именем\n",
+          "- Вендорские приложения магнитолы (BT-музыка, телефон, радио) — отдельными иконками\n",
+          "- Живые обои и смена обоев по времени суток\n",
+          "- Виджет «Скорость и манёвр»: скорость по GPS и подсказка Яндекс Навигатора\n",
+          "- Автоскрытие дока\n",
+          "- Автозапуск плеера: при открытии, в окне и после сна; выбор приложения, задержка, ожидание сети\n",
+          "- Точка белого «везде» теперь затемняет и чужие приложения\n",
+          "\n**Изменено:**\n\n",
+          "- Плитка настроек называется «CBUi Настройки» и носит иконку лаунчера\n",
+          "- Автоматические запуски ждут загрузки системы, разблокировки и сети\n",
+          "\n**Исправлено:**\n\n",
+          "- Лаунчер мог падать при засыпании и пробуждении магнитолы(ошибка с GPS)\n",
+          "- Упавший при сне плагин больше не роняет лаунчер(CAN для TS18)\n",
+          "- Виджет машины быстрее оживает после пробуждения\n",
+          "- При запуске лаунчера иногда выскакивала клавиатура\n",
+          "- Длинные подписи под иконками упирались в края\n",
+          "- В узком окне сплита пропадали иконки разделов настроек\n",
+          "- Лаунчер и плагин снова требуют Android 10 и новее\n"
+        ],
+        "en": [
+          "**New:**\n\n",
+          "- \"Categories\" app list view, like the iPad App Library, plus \"Grid and categories\"\n",
+          "- App list sorting: alphabetical, by install date, by launch frequency\n",
+          "- One app's shortcuts can be gathered into a folder named after it\n",
+          "- Head unit vendor apps (BT music, phone, radio) appear as separate icons\n",
+          "- Live wallpapers and wallpapers that follow the time of day\n",
+          "- \"Speed and manoeuvre\" widget: GPS speed and Yandex Navigator's next turn\n",
+          "- Dock auto-hide\n",
+          "- Player autostart: on opening, in a window and after sleep; app, delay and wait-for-network options\n",
+          "- White point \"everywhere\" now dims other apps too\n",
+          "\n**Changed:**\n\n",
+          "- The settings tile is called \"CBUi Settings\" and wears the launcher's icon\n",
+          "- Automatic launches wait for boot, unlock and network\n",
+          "\n**Fixed:**\n\n",
+          "- The launcher could crash when the head unit went to sleep or woke up (GPS error)\n",
+          "- A plugin dying in sleep no longer takes the launcher down (CAN for TS18)\n",
+          "- The car widget comes back faster after waking\n",
+          "- The keyboard sometimes popped up when the launcher started\n",
+          "- Long captions under icons ran into the edges\n",
+          "- Settings section icons disappeared in a narrow split window\n",
+          "- The launcher and the plugin require Android 10 or newer again\n"
+        ]
+      }
     }
   ]
 }
