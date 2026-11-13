@@ -110,6 +110,61 @@
           "- The launcher and the plugin require Android 10 or newer again\n"
         ]
       }
+    },
+    {
+      "versionCode": 981142,
+      "versionName": "1.0.0-alpha.981142",
+      "apk": {
+        "github": "https://github.com/thisaccounthasbeendel/cbui_update/releases/download/CBUi-1.0.0-alpha.981142-20261113-1522/CBUi-1.0.0-alpha.981142-20261113-1522.apk",
+        "yandex": "CBUi-1.0.0-alpha.981142-20261113-1522.apk"
+      },
+      "releaseDate": "2026-11-13",
+      "changelog": {
+        "ru": [
+          "**Новое:**\n\n",
+          "- Иммерсивный режим приложений — запуск на весь экран непосредственно внутри лаунчера с переходом от иконки к приложению\n",
+          "- Управление плеером, медиатекой и очередью воспроизведения с помощью клавиатуры и аппаратных кнопок\n",
+          "- Интерактивное контекстное меню с управлением перетаскиванием пальцем и динамической стеклянной подсветкой\n",
+          "- Стеклянный индикатор вкладок медиатеки с интерактивным перемещением и инерцией\n",
+          "\n**Изменено:**\n\n",
+          "- Анимации открытия приложений, папок и панелей переведены на физическую модель Spring\n",
+          "- Иконки при открытии приподнимаются, а панели реагируют на движение растяжением и упругой анимацией\n",
+          "- Рабочий стол плавно уменьшается и размывается при открытии настроек, плеера и галереи виджетов\n",
+          "- Переработано отображение списков медиатеки и очереди: высота строк, размер обложек, подсветка и восстановление позиции фокуса\n",
+          "- Шрифт интерфейса заменён с Inter на Onest\n",
+          "\n**Исправлено:**\n\n",
+          "- Устранены лишние системные анимации при восстановлении приложений в оконном режиме\n",
+          "- Исправлена геометрия рамки фокуса вокруг квадратных обложек\n",
+          "- Исправлено перескакивание фокуса на мини-плеер во время подгрузки следующей страницы списка\n",
+          "- Устранены подтормаживания при подгрузке длинных списков — новые элементы больше не вызывают перестроение всего списка\n",
+          "- Исправлена подсветка кнопок плеера при управлении с клавиатуры\n",
+          "- Исправлена работа фокуса мини-плеера в медиатеке\n",
+          "- Устранено появление дублирующейся иконки приложения под открытой панелью\n",
+          "- Исправлено позиционирование и масштабирование иконок при открытии мини-приложений\n"
+        ],
+        "en": [
+          "**New:**\n\n",
+          "- Immersive app mode — launch applications full-screen directly inside the launcher, transitioning from the app icon to the application\n",
+          "- Keyboard and hardware-button navigation in the player, media library and playback queue\n",
+          "- Interactive context menu with finger-drag navigation and dynamic glass highlighting\n",
+          "- Glass tab indicator in the media library with interactive movement and inertia\n",
+          "\n**Changed:**\n\n",
+          "- Opening animations for apps, folders and panels now use a Spring-based physics model\n",
+          "- Icons lift when opening, while panels respond to movement with stretching and elastic animations\n",
+          "- The desktop smoothly scales down and blurs when opening Settings, the player and the widget gallery\n",
+          "- Redesigned media library and queue lists: row heights, artwork sizes, highlighting and focus position restoration\n",
+          "- Replaced the interface font from Inter with Onest\n",
+          "\n**Fixed:**\n\n",
+          "- Removed redundant system animations when restoring applications in windowed mode\n",
+          "- Fixed focus frame geometry around square album artwork\n",
+          "- Fixed focus jumping to the mini-player while the next list page was loading\n",
+          "- Eliminated stuttering when loading long lists — new items no longer trigger a full list rebuild\n",
+          "- Fixed player button highlighting during keyboard navigation\n",
+          "- Fixed mini-player focus handling in the media library\n",
+          "- Prevented duplicate app icons from appearing beneath open panels\n",
+          "- Fixed icon positioning and scaling when opening mini-apps\n"
+        ]
+      }
     }
   ]
 }
